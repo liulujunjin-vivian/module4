@@ -12,22 +12,22 @@ Tiger rolling beta 60
 ---
 
 ## Pic reference
-! [pic](https://github.com/liulujunjin-vivian/module4/blob/main/Pics/cumlative%20returns.jpg)     
+![pic](https://github.com/liulujunjin-vivian/module4/blob/main/Pics/cumlative%20returns.jpg)     
 
 
-[pic](https://github.com/liulujunjin-vivian/module4/blob/main/Pics/Four%20Fund%20Volatility.jpg)    
+![pic](https://github.com/liulujunjin-vivian/module4/blob/main/Pics/Four%20Fund%20Volatility.jpg)    
 
 
-[pic](https://github.com/liulujunjin-vivian/module4/blob/main/Pics/21%20day%20rolling%20standard.jpg)    
+![pic](https://github.com/liulujunjin-vivian/module4/blob/main/Pics/21%20day%20rolling%20standard.jpg)    
 
 
-[pic](https://github.com/liulujunjin-vivian/module4/blob/main/Pics/sharpe%20ratio%20bar.jpg)    
+![pic](https://github.com/liulujunjin-vivian/module4/blob/main/Pics/sharpe%20ratio%20bar.jpg)    
 
 
-[pic](https://github.com/liulujunjin-vivian/module4/blob/main/Pics/berkshire%20rolling%20beta%2060.jpg)       
+![pic](https://github.com/liulujunjin-vivian/module4/blob/main/Pics/berkshire%20rolling%20beta%2060.jpg)       
 
 
-[pic](https://github.com/liulujunjin-vivian/module4/blob/main/Pics/Screen%20Shot%202022-07-14%20at%202.20.55%20AM.jpg)      
+![pic](https://github.com/liulujunjin-vivian/module4/blob/main/Pics/Screen%20Shot%202022-07-14%20at%202.20.55%20AM.jpg)      
 
 
 ---
