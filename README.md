@@ -12,7 +12,7 @@ Tiger rolling beta 60
 ---
 
 ## Pic reference
-[pic](https://github.com/liulujunjin-vivian/module4/blob/main/Pics/cumlative%20returns.jpg)     
+! [pic](https://github.com/liulujunjin-vivian/module4/blob/main/Pics/cumlative%20returns.jpg)     
 
 
 [pic](https://github.com/liulujunjin-vivian/module4/blob/main/Pics/Four%20Fund%20Volatility.jpg)    
@@ -28,7 +28,7 @@ Tiger rolling beta 60
 
 
 [pic](https://github.com/liulujunjin-vivian/module4/blob/main/Pics/Screen%20Shot%202022-07-14%20at%202.20.55%20AM.jpg)      
- 
+
 
 ---
 
